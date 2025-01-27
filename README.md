@@ -34,7 +34,7 @@ The project is divided into the following tasks:
   - **Cluster 1:** Low spenders with minimal transaction activity.
   - **Cluster 2:** Moderate spenders with steady transaction behavior.
   - **Cluster 3:** A mixed group with diverse spending patterns.
-  - 
+    
 ## How to Use
 1. **Clone the Repository:**
    ```bash
